@@ -1,2 +1,3 @@
-# telegram-bot
-A telegram bot
+# MEMETRON
+
+A telegram bot that sends random memes on request.
